@@ -12,6 +12,7 @@ router.get('/users', (req, res) => {
   const users: UsersResult = [
     { firstName: 'John', lastName: 'Doe' },
     { firstName: 'Jane', lastName: 'Doe' },
+    { firstName: 'Johnny', lastName: 'Doe' },
   ];
 
   res.send(users);
