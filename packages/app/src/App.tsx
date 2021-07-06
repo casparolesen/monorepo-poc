@@ -17,6 +17,8 @@ function App() {
         {users.map((user) => (
           <li>
             {user.firstName}
+            {' '}
+            {user.lastName}
           </li>
         ))}
       </ul>
