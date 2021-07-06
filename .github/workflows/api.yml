@@ -3,10 +3,10 @@ name: API
 on:
   pull_request:
     paths:
-      - 'packages/api/*'
+      - 'packages/api/**'
   push:
     paths:
-      - 'packages/api/*'
+      - 'packages/api/**'
 
 jobs:
   lint:

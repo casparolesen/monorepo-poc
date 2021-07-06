@@ -3,10 +3,10 @@ name: APP
 on:
   pull_request:
     paths:
-      - 'packages/app/*'
+      - 'packages/app/**'
   push:
     paths:
-      - 'packages/app/*'
+      - 'packages/app/**'
 
 jobs:
   lint:
