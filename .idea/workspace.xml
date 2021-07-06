@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bce2ff0d-0c26-49ce-b522-b7d62c584dcc" name="Default Changelist" comment="Monorepo PoC">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/api.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/api.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/app.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/app.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="535f65a3-9c59-463c-980a-b77530e11bdc" name="Default Changelist" comment="Monorepo PoC" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
